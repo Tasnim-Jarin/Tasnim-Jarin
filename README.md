@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tasnim-Jarin
+- 👋 Hi, I’m @Jarin Tasnim
 - 👀 I’m interested in CODING💻🖱️ & PHOTOGRAPHY📸
 - 🌱 I’m currently learning PROGRAMMING LANGUAGES🤖
 - 💞️ I’m looking to collaborate on ...
