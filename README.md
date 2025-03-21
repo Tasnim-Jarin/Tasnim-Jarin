@@ -2,7 +2,7 @@
 - 👀 I’m interested in CODING💻🖱️ & PHOTOGRAPHY📸
 - 🌱 I’m currently learning PROGRAMMING LANGUAGES🤖
 - 💞️ I’m looking to collaborate on ...
-- 📫 jarintasnim1603@gmail.com
+- 📫 tasnimjarin484@gmail.com
 
 <!---
 Tasnim-Jarin/Tasnim-Jarin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
